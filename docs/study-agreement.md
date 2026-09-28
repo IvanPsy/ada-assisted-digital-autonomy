@@ -15,8 +15,8 @@ Speak as an equal, not as an adult granting permission.
 3. **State the purpose: their autonomy.**
    "The point isn't to keep an eye on you. It's that in a few months you are more in charge of your own work, not less."
    *For supports that stay (text access):* "Some of this help is yours to keep for good, like glasses. What matters is that you decide how it's used."
-4. **Say what stays between you.**
-   "What we say while looking at your summaries stays between us. If anything goes into a school document, it's only conclusions we agree on and sign together, never the raw summaries. There is one exception, and I'll always be honest about it: if you tell me or I see that you are not safe, I have to involve someone who can help."
+4. **Say what becomes a document, what doesn't, and the one exception.**
+   "What comes up while we look at your summaries is our working material. If anything goes into a school document, it's only conclusions we agree on and sign together, never the raw summaries. There is one exception, and I'm telling you now: if I understand that you are not safe, I have to involve someone who can help, and I will tell you before I do."
 5. **Leave room for no, and for change.**
    "You can turn it off, I know. I'm asking you to try it for a few weeks, then we talk: if it helps we keep it, if it gets in the way we change it. We change one thing at a time, and I'll always tell you first."
 
@@ -41,11 +41,12 @@ How it works (I know and I agree)
 - When something is worth talking about, we look at it TOGETHER.
   It is not a grade and not a verdict.
 
-What stays between us
-- What we say while looking at my work stays between us.
+What becomes a document and what doesn't
+- What comes up while looking at my work is our working material.
 - Only conclusions we decide and sign together go into any school document,
   never the raw summaries.
-- Except: if I am not safe, the adult will involve someone who can help.
+- One exception: if I am not safe, the adult involves someone who can help,
+  and tells me first.
 
 I can change my mind
 - I can turn the setup off. We try it for ...... weeks, then we talk.
@@ -63,7 +64,7 @@ Signatures:  student ..............   adult ..............
 ## What the agreement is not
 
 - Not permission to read the learner's conversations, or to open their account.
-- Not a promise of secrecy about safety: no adult can promise that, and the learner should hear it from the start.
+- Not a promise of secrecy. "Our working material" separates the conversation from official school records; it does not suspend safeguarding. If the learner is not safe, the adult's duties (reporting and, where the law requires it, notifying the authorities) come before the agreement. That is why the exception is stated at the start, not when it is needed. For the same reason the agreement avoids "this stays between us": for a minor, parents and the school team may have a right to the conclusions.
 - Not a blanket release for any use of the data.
 - Not a contract imposed from above: it is co-signed.
 - Not a substitute for the formal consents a school or the law may require.
