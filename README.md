@@ -93,6 +93,14 @@ ADA is derived from the *ADA (Autonomia Digitale Assistita)* clinical-educationa
 
 Theoretical anchors include Vygotsky's scaffolding, Clark and Chalmers' extended mind, attachment theory (Bowlby), the social model of disability and the independent living movement (UPIAS, Oliver, DeJong), interdependence (Kittay, Kafer), and Universal Design for Learning 3.0 (CAST, 2024). See [docs/concepts.md](docs/concepts.md#references).
 
+## Contact
+
+Questions, field reports, collaboration proposals: **Ivan Ferrero**, [ivan@ivanferrero.it](mailto:ivan@ivanferrero.it) · [ivanferrero.it](https://ivanferrero.it). For anything that concerns a learner's safety or sensitive data, write privately rather than opening a public issue.
+
 ## License
 
 Content is released under [Creative Commons Attribution-ShareAlike 4.0](LICENSE) (CC BY-SA 4.0): you can use, adapt and share it, including commercially, as long as you credit the source and share adaptations under the same license. Any future code in this repository will be released under the [MIT License](LICENSE-CODE).
+
+---
+
+<p align="center"><em>Made with love (and a bit of AI) by Ivan Ferrero</em></p>
