@@ -1,0 +1,5 @@
+.DS_Store
+*.swp
+# Keep filled-in profile sheets out of the repository
+profile/my-*.md
+private/
