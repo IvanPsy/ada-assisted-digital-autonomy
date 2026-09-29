@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- How to install: states that the instructions do not need translating, the `{{LANGUAGE}}` field sets the reply language.
+
 ## 0.1.0 (September 2026)
 
 First public structure, derived from the Italian ADA framework (v1.1, July 2026) and its operational kits.

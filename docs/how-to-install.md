@@ -16,6 +16,8 @@ Create a space for yourself where the [co-pilot instructions](../channels/adult/
 
 ## Student channel (for the learner's assistant)
 
+**You do not need to translate anything.** The instructions stay in English; set `{{LANGUAGE}}` in the profile (for example "Italian") and the assistant will talk to the learner in that language.
+
 **Do this with the learner, not behind their back.** They must know the instructions exist and why (see the [study agreement](study-agreement.md)).
 
 ### Option A: Gemini with a school account
