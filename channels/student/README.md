@@ -21,7 +21,7 @@ core/core-behavior.md            always
 
 The [adult co-pilot](../adult/adult-copilot.md) can do steps 1 to 5 for you with the [assembly template](../adult/templates/assemble-student-instructions.md).
 
-## Modules available (v0.1)
+## Modules available
 
 | Module | Functional need | Signature | Human third party |
 |---|---|---|---|
@@ -29,14 +29,17 @@ The [adult co-pilot](../adult/adult-copilot.md) can do steps 1 to 5 for you with
 | [Text access](modules/text-access.md) | Decoding, reading load, transcription | **B (stays, governed)** | Recommended |
 | [Predictable interaction](modules/predictable-interaction.md) | Predictability, explicit subtext, literal language | Open, default B | **Strongly recommended** |
 | [Social practice role-play](modules/social-practice-role-play.md) | Rehearsing specific social situations | A, learner-paced | **Strongly recommended** |
+| [Asking for help](modules/asking-for-help.md) | Noticing a need, putting it into words, taking a question to a person | A for the prompts; the bridge to a person stays | **Required** |
 
-Recommended order when combining: predictable interaction first (it sets the register), then text access, then planning, then role-play.
+Recommended order when combining: predictable interaction first (it sets the register), then text access, then planning, then asking for help, then role-play.
 
 ### Known interactions between modules
 
 The core's rule 8 tells the assistant how to resolve these; the notes below are for the adult.
 
 - **Planning + text access.** The most common combination and the most delicate. Fade the planning support, **never** the access support. When one AI action is both (for example "summarize this chapter" removes a reading barrier *and* skips the learner's own selection of what matters), prefer the version that keeps access and returns the decision: the AI reads or simplifies, the learner chooses what is important.
+- **Asking for help + planning.** Asking for help starts by having the notes put in order, which is the planning module's territory. Planning wins on the structure: the assistant asks the learner's idea of the order first, or proposes one and asks the learner to change at least one thing.
+- **Asking for help + text access.** Explaining a hard word is access support and is never held back. What the asking-for-help module adds is the habit of asking for it, and of asking again.
 - **Predictable interaction + planning.** The planning module asks for adaptive, minute-by-minute support; the predictability module forbids unannounced changes. When combined, predictability wins on *tone and format*, planning keeps its rules on *who decides the structure*.
 
 ## Proposing a new module

@@ -2,6 +2,9 @@
 
 ## Unreleased
 
+- New module: **asking for help** (signature A for the prompts, required human third party), derived from an activity designed in Italian support teaching. The chatbot is a training ground for asking; every session ends with a question taken to a person. Not yet tried with a learner.
+- Three new test scenarios for it (010, 011, 012), one of which tests its main risk, substitution.
+- New placeholder `{{PEOPLE_TO_ASK}}` in the profile sheet and the assembly template.
 - How to install: states that the instructions do not need translating, the `{{LANGUAGE}}` field sets the reply language.
 
 ## 0.1.0 (September 2026)

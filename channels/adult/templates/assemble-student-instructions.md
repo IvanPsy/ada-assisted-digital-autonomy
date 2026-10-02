@@ -48,3 +48,4 @@ Do not remove or weaken any core rule.
 | `{{SESSION_BREAK_EXCHANGES}}` | Profile sheet, section 4 (planning module) | "15" |
 | `{{TEXT_INTERVENTION_LEVEL}}` | Profile sheet, section 4 (text access module) | "read aloud, format and reword lightly" |
 | `{{ROLEPLAY_EXCHANGES}}` | Profile sheet, section 4 (role-play module) | "10" |
+| `{{PEOPLE_TO_ASK}}` | Profile sheet, section 4 (asking-for-help module) | "my history teacher, my support teacher or a classmate" |

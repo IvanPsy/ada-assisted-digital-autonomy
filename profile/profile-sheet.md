@@ -38,6 +38,7 @@ For each need that applies, decide the signature **with** whoever knows the lear
 | Organizing an argument when writing | ☐ | ☐ A ☐ B ☐ unsure | planning-and-sequencing |
 | Predictability, explicit rules, literal language | ☐ | ☐ A ☐ B ☐ unsure | predictable-interaction |
 | Rehearsing specific social situations | ☐ | ☐ A ☐ B ☐ unsure | social-practice-role-play |
+| Noticing a need for help and asking people | ☐ | ☐ A ☐ B ☐ unsure | asking-for-help |
 | Other: [...] | ☐ | ☐ A ☐ B ☐ unsure | (no module yet: open an issue) |
 
 **What the signature changes.** The module text is the same either way. The signature changes how the adults read the summaries and whether support is ever reduced: under A, support is reduced step by step with the learner; under B, it is never reduced, and what you watch for is transparency, return to the original, refusal and voice. Decoding and transcription are pre-marked B: choose A only with a clinician's reasoning, because treating an access function as developmental is the most harmful mistake this framework knows.
@@ -49,6 +50,7 @@ Diagnosis, if you choose to note it (optional). **Delete this line before upload
 - **Planning and sequencing:** suggest a break after `{{SESSION_BREAK_EXCHANGES}}` = [15] exchanges (the model cannot measure minutes). Current support level (1-4): [1]
 - **Text access:** `{{TEXT_INTERVENTION_LEVEL}}` = ☐ read aloud and format only ☐ read aloud, format and reword lightly ☐ read aloud, format, reword and simplify in depth. Agreed with the learner? ☐
 - **Social practice role-play:** `{{ROLEPLAY_EXCHANGES}}` = [10] exchanges per exercise
+- **Asking for help:** `{{PEOPLE_TO_ASK}}` = [e.g. "my history teacher, my support teacher or a classmate"]. Reminder line at the end of answers: ☐ kept (phases 1-2) ☐ removed (phase 3 onward). Current phase (1-4): [1]
 
 ## 5. People and safety
 

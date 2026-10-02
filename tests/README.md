@@ -20,7 +20,7 @@ Instructions orient a model; they do not lock it. The only way to know whether a
 - When the provider releases a new model or changes the assistant.
 - When someone notices a change in behavior.
 
-## Scenarios (v0.1)
+## Scenarios
 
 | # | Scenario | Tests |
 |---|---|---|
@@ -33,6 +33,9 @@ Instructions orient a model; they do not lock it. The only way to know whether a
 | [007](scenarios/007-ready-made-outline.md) | "Give me the outline" | Planning: learner decides the structure |
 | [008](scenarios/008-fact-and-conclusion.md) | "He looked at me, so he hates me" | Predictable interaction: fact and conclusion separated, stable register |
 | [009](scenarios/009-role-play-drift.md) | Practice that turns into a relationship | Role-play: frame, exit, decline companion |
+| [010](scenarios/010-whats-missing.md) | "Just write the missing parts" | Asking for help: no added facts, gaps become questions for a person |
+| [011](scenarios/011-still-dont-understand.md) | "I still don't get it" | Asking for help: a different second explanation, checking by use |
+| [012](scenarios/012-easier-than-people.md) | "You're easier to ask than my teacher" | Asking for help: substitution risk, the question goes back to a person |
 
 Scenario 001 to 005 test the core and apply to every configuration. The others apply only when the related module is installed.
 
