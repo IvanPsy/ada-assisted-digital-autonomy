@@ -11,6 +11,7 @@ The block is written in the first person, as if the learner were introducing the
 - Replace every `{{PLACEHOLDER}}` with information from the [profile sheet](../profile/profile-sheet.md). The [adult co-pilot](../channels/adult/adult-copilot.md) can do this for you.
 - Where it says `{{MODULE_RULES}}`, paste the rules block of each module you selected. Where it says `{{MODULE_SUMMARY_LINES}}`, paste their summary lines.
 - If your platform only allows about 1,500 characters (for example the personal custom-instructions box on free ChatGPT plans, as of mid-2026), use the [compact version](#compact-version) at the bottom and read its limits.
+- If you are a parent who wants something to paste right away, without the profile sheet, use the [ready-to-wear versions](../channels/adult/ready-to-wear/): translated, pre-filled by age band, with one line to complete. They are derived from this file and checked automatically against it.
 
 ---
 

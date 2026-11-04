@@ -46,6 +46,8 @@ The **adult is always the primary user** of this repository, including when the 
 
 ## Quick start (no technical skills needed)
 
+> **Just want something to paste?** The [ready-to-wear versions](channels/adult/ready-to-wear/) are translated, pre-filled by age band and need one line from you. In Italian: [guida per il genitore](channels/adult/ready-to-wear/it/). Less precise than the full setup below, and a good place to start.
+
 1. **Read [SAFETY.md](SAFETY.md)** and check the [platform compatibility table](docs/platform-compatibility.md): not every assistant allows minors, and the rules differ by age and country.
 2. **Fill in the [profile sheet](profile/profile-sheet.md)** on your own computer. It asks about *what the learner needs*, not who they are. Do not write names or diagnoses you would not want stored by a tech company.
 3. **Set up the adult co-pilot** by pasting [channels/adult/adult-copilot.md](channels/adult/adult-copilot.md) into a project or custom assistant for yourself. Use it to create material and to assemble the student instructions.

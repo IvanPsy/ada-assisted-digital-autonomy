@@ -16,7 +16,7 @@ Create a space for yourself where the [co-pilot instructions](../channels/adult/
 
 ## Student channel (for the learner's assistant)
 
-**You do not need to translate anything.** The instructions stay in English; set `{{LANGUAGE}}` in the profile (for example "Italian") and the assistant will talk to the learner in that language.
+**You do not need to translate anything.** The instructions stay in English; set `{{LANGUAGE}}` in the profile (for example "Italian") and the assistant will talk to the learner in that language. If you would rather paste a text you can read in your own language, already filled in, use the [ready-to-wear versions](../channels/adult/ready-to-wear/).
 
 **Do this with the learner, not behind their back.** They must know the instructions exist and why (see the [study agreement](study-agreement.md)).
 

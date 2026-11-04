@@ -22,7 +22,7 @@ The full core alone is about 4,000 characters; with one or two modules the confi
 
 | Where | Typical limit | Fits the full configuration? |
 |---|---|---|
-| ChatGPT personal custom instructions, free and Go plans | 1,500 characters | ❌ Use the compact core, or a project |
+| ChatGPT personal custom instructions, free and Go plans | 1,500 characters | ❌ Use the compact core (or the short [ready-to-wear](../channels/adult/ready-to-wear/) version), or a project |
 | ChatGPT personal custom instructions, paid plans | 5,000 characters (raised in July 2026) | ⚠️ Full core alone, or core plus the planning module at most; use a project for anything more |
 | ChatGPT projects / custom GPTs | Longer instructions allowed | ✅ Usually |
 | Gemini Gems | Longer instructions allowed | ✅ Usually |
