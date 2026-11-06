@@ -10,8 +10,10 @@
 | Österreich (Austria) | Deutsch | [austria/de/](austria/de/) | untested |
 | France | Français | [france/fr/](france/fr/) | untested |
 | Deutschland (Germany) | Deutsch | [germany/de/](germany/de/) | untested |
+| Ireland | English | [ireland/en/](ireland/en/) | untested |
 | Italia (Italy) | Italiano | [italy/it/](italy/it/) | untested |
 | España (Spain) | Español | [spain/es/](spain/es/) | untested |
+| United Kingdom | English | [united-kingdom/en/](united-kingdom/en/) | untested |
 <!-- countries:end -->
 
 This is the student core and nothing else: no modules, no profile. It is less precise than a configuration assembled from the [profile sheet](../../../profile/profile-sheet.md), and it says so to the parent. Think of it as the door into ADA for people who would otherwise not configure anything at all.
