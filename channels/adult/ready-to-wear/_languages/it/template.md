@@ -74,7 +74,7 @@ Non è un controllo parentale e non può esserlo: chi studia può cancellare le 
 
 In ogni file la prima riga del testo dice «Per me è difficile: [scrivi qui]». Sostituisci `[scrivi qui]` con una frase breve, scritta possibilmente insieme a chi studia e con le sue parole: «leggere testi lunghi, perdo il filo», «cominciare i compiti e organizzarmi», «capire le consegne scritte». Non scrivere diagnosi, nomi o dati personali: il testo finisce sui server dell'azienda che gestisce l'assistente. Se non sai che cosa scrivere, cancella la riga.
 
-Ogni file ha due versioni. La **corta** entra nel riquadro da 1.500 caratteri di ChatGPT gratuito; la **piena** è più affidabile e va usata ovunque ci sia spazio. In GitHub basta cliccare sull'icona di copia in alto a destra del riquadro grigio per copiare tutto il testo in un colpo.
+Ogni file ha due versioni. La **corta** entra nel riquadro da 1.500 caratteri di ChatGPT gratuito; la **piena** è più affidabile e va usata ovunque ci sia spazio. Per copiare tutto il testo in un colpo basta il tasto di copia del riquadro (su GitHub è l'icona in alto a destra del riquadro grigio).
 
 ## 3. Incollalo nel posto giusto
 
